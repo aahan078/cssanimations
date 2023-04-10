@@ -109,7 +109,7 @@ display: inline-block;
 
 .container-p{
     margin: 100px auto;
-    width: 500px;
+    width: 100%;
     text-align: center;
   }
   
